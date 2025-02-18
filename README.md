@@ -9,13 +9,17 @@ This project creates an interactive bouncing ball animation using **HTML**, **CS
 - **Infinite Bouncing:** The ball continuously bounces off the walls and floor.
 - **Responsive Design:** The canvas adjusts to different screen sizes, ensuring smooth performance on mobile and desktop devices.
 
-## Technologies Used
+# Live Demo
+
+
+
+# Technologies Used
 
 - **HTML:** Structure and canvas setup.
 - **CSS:** Styling and layout adjustments.
 - **JavaScript:** Handling the animation, gravity, bounce physics, and shake detection using `devicemotion`.
 
-## How to Run
+# Installation
 
 1. Clone the repository:
    ```bash
