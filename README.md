@@ -25,6 +25,7 @@ This project creates an interactive bouncing ball animation using **HTML**, **CS
    ```bash
    git clone https://github.com/User44442/Bouncing-Ball.git
 
+2. Run index.html on any browser and play
 
 # License
 
